@@ -1,4 +1,5 @@
-video.flv
+*.flv
 FFmpegg
 ffmpeg
 ffmpeg-4.1
+compiling_error.txt
