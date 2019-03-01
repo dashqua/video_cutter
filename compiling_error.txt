@@ -1,0 +1,5 @@
+In file included from C:\Users\thomas\OneDrive\scripts\video_cutter\main.c:6:0:
+C:\Users\thomas\OneDrive\scripts\video_cutter\./ffmpeg-4.1/libavcodec/avcodec.h:31:10: fatal error: libavutil/samplefmt.h: No such file or directory
+ #include "libavutil/samplefmt.h"
+          ^~~~~~~~~~~~~~~~~~~~~~~
+compilation terminated.
